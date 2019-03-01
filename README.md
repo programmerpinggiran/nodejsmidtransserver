@@ -10,6 +10,7 @@ setup: npm install
 run: node index.js
 
 ## Usage
+load from SdkUIFlowBuilder.. .setMerchantBaseUrl('_MERCHANT_URL_HERE_')
 ```
 localhost:8001/charge
 ```
